@@ -1,5 +1,7 @@
 package com.launcher;
 
 public class NewClass {
-	int myVar;
+	public static void main(String[] args) {
+		System.out.println("Hello jpm");
+	}
 }
